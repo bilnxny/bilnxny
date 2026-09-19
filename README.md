@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MUHAMMED BILAL TA — Kerala Penetration Tester & Bug Hunter
+     MUHAMMED BILAL TA — cyber security analyst & Bug Hunter
      Cyber Security Mentor · Red Team Operator · Bug Hunter
      github.com/bilnxny
      ═══════════════════════════════════════════════════════════ -->
@@ -44,22 +44,7 @@
 </h2>
 
 ```typescript
-interface SecurityOperator {
-  name:         string;
-  alias:        string;
-  role:         string[];
-  location:     string;
-  experience:   string;
-  speciality:   string[];
-  arsenal:      string[];
-  domain:       string[];
-  current:      string;
-  mentor:       string;
-  classified:   string;
-  certifications: string[];
-  contact:      Record<string, string>;
-  motto:        string;
-}
+
 
 const bilal: SecurityOperator = {
   name:         "Muhammed Bilal TA",
