@@ -1,17 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MUHAMMED BILAL TA — Penetration Tester & Bug Hunter
+     MUHAMMED BILAL TA — Kerala Penetration Tester & Bug Hunter
+     Cyber Security Mentor · Red Team Operator · Bug Hunter
      github.com/bilnxny
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- CAPSULE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:0D1117&height=220&section=header&text=Muhammed%20Bilal%20TA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Penetration%20Tester%20%E2%80%A2%20Bug%20Hunter%20%E2%80%A2%20Red%20Teamer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:0D1117&height=220&section=header&text=Muhammed%20Bilal%20TA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cyber%20Security%20Mentor%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
-<!-- TYPING SUBTITLE -->
+<!-- ANIMATED NAME + TYPING SUBTITLE -->
 <div align="center">
   <a href="https://github.com/bilnxny">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Penetration+Tester+%7C+Bug+Hunter+%7C+Red+Teamer;Finding+what+others+missed.;Breaking+systems+to+make+them+stronger.;HACK+THE+PLANET+%F0%9F%8C%8D" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=850&height=60&lines=Muhammed+Bilal+TA;Cyber+Security+Mentor+%F0%9F%9B%A1%EF%B8%8F;Red+Team+Operator+%E2%9A%94%EF%B8%8F;Bug+Hunter+%F0%9F%8E%AF;Kerala+Based+Hacker+%F0%9F%87%AE%F0%9F%87%B3;HACK+THE+PLANET+%F0%9F%8C%8D" alt="Typing" />
   </a>
 </div>
 
@@ -36,40 +37,96 @@
 
 ---
 
-<!-- ABOUT SECTION -->
+<!-- ABOUT ME SECTION -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-  &nbsp;Who Am I
+  &nbsp;About Me
 </h2>
 
 ```typescript
+interface SecurityOperator {
+  name:         string;
+  alias:        string;
+  role:         string[];
+  location:     string;
+  experience:   string;
+  speciality:   string[];
+  arsenal:      string[];
+  domain:       string[];
+  current:      string;
+  mentor:       string;
+  classified:   string;
+  certifications: string[];
+  contact:      Record<string, string>;
+  motto:        string;
+}
 
-
-
-  name:       "Muhammed Bilal TA",
-  alias:      "bilnxny",
-  role:       ["Penetration Tester", "Bug Hunter", "Red Team Operator"],
-  location:   "Kerala, India 🇮🇳 [UTC+05:30]",
-  arsenal:    ["Kali", "Burp Suite", "Metasploit", "Nmap", "BloodHound", "Python", "Bash", "SQL"],
-  domain:     "Web Exploitation · Network Pentesting · Active Directory · OSINT",
-  current:    "Hunting critical vulnerabilities in the wild",
-  classified: "Aerospace Systems Security Research",
+const bilal: SecurityOperator = {
+  name:         "Muhammed Bilal TA",
+  alias:        "bilnxny",
+  role:         [
+    "Cyber Security Mentor",
+    "Red Team Operator",
+    "Bug Hunter",
+    "Penetration Tester",
+    "Kerala Based Hacker"
+  ],
+  location:     "Kerala, India 🇮🇳 [UTC+05:30]",
+  experience:   "3+ years breaking systems & mentoring newcomers",
+  speciality:   [
+    "Web Application Pentesting",
+    "Network & Active Directory Attacks",
+    "OSINT & Reconnaissance",
+    "Bug Bounty Hunting",
+    "Red Team Operations"
+  ],
+  arsenal:      [
+    "Kali Linux", "Parrot OS", "Burp Suite Pro", "Metasploit",
+    "Nmap", "BloodHound", "Mimikatz", "Impacket", "Cobalt Strike",
+    "SQLMap", "FFUF", "Nuclei", "Amass", "Subfinder", "Shodan",
+    "Wireshark", "Python", "Bash", "PowerShell", "SQL"
+  ],
+  domain:       [
+    "Web Exploitation",
+    "Network Pentesting",
+    "Active Directory",
+    "OSINT / SOCMINT",
+    "Aerospace Systems Security"
+  ],
+  current:      "Hunting critical vulnerabilities in the wild & mentoring the next generation of hackers",
+  mentor:       "Guiding beginners from zero to their first bug bounty payout",
+  classified:   "Aerospace Systems Security Research",
+  certifications: [
+    "eJPT (in progress)",
+    "CEH (pursuing)",
+    "HTB Certified Penetration Tester (planned)"
+  ],
   contact: {
     email:     "muhanmedbilallalu@gmail.com",
     instagram: "@bilxnvyy",
     youtube:   "Cyber Phoenix"
   },
-  motto:      "HACK THE PLANET 🌍"
+  motto:        "HACK THE PLANET 🌍"
 };
 ```
 
-> **"I don't build applications. I break them — legally, ethically, and relentlessly."**
+> **"I don't build applications. I break them — legally, ethically, and relentlessly. And I teach others to do the same."**
+
+<br>
+
+<div align="center">
+
+**🔴 Kerala Based Hacker · Cyber Security Mentor · Red Team Operator · Bug Hunter 🔴**
+
+*Mentoring newcomers · Breaking systems · Hunting critical CVEs · Building a safer internet*
+
+</div>
 
 <br>
 
 ---
 
-<!-- TECH ARSENAL -->
+<!-- OFFENSIVE ARSENAL -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
   &nbsp;Offensive Arsenal
@@ -80,32 +137,55 @@
 ### 🔴 Reconnaissance & OSINT
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=FF0033)
 ![Amass](https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&logoColor=FF0033)
-![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=FF0033)
 ![Subfinder](https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logoColor=FF0033)
+![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=FF0033)
 ![Shodan](https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=FF0033)
+![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=FF0033)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-0D1117?style=for-the-badge&logoColor=FF0033)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0D1117?style=for-the-badge&logoColor=FF0033)
 
 ### 🔴 Web Exploitation
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF0033)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF0033)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF0033)
 ![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logoColor=FF0033)
 ![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logoColor=FF0033)
 ![Nuclei](https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=FF0033)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF0033)
+![WPScan](https://img.shields.io/badge/WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=FF0033)
+![XSStrike](https://img.shields.io/badge/XSStrike-0D1117?style=for-the-badge&logoColor=FF0033)
+![Commix](https://img.shields.io/badge/Commix-0D1117?style=for-the-badge&logoColor=FF0033)
 
 ### 🔴 Exploitation & Post-Exploitation
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF0033)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=FF0033)
 ![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&logoColor=FF0033)
 ![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=FF0033)
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&logoColor=FF0033)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=FF0033)
+![Responder](https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=FF0033)
+![Empire](https://img.shields.io/badge/PowerShell_Empire-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033)
+![Sliver](https://img.shields.io/badge/Sliver_C2-0D1117?style=for-the-badge&logoColor=FF0033)
 
-### 🔴 Environment & Tooling
+### 🔴 Password & Hash Attacks
+![Hashcat](https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=FF0033)
+![John](https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=FF0033)
+![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=FF0033)
+![Medusa](https://img.shields.io/badge/Medusa-0D1117?style=for-the-badge&logoColor=FF0033)
+
+### 🔴 Wireless & Network
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logoColor=FF0033)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033)
+![Bettercap](https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logoColor=FF0033)
+![Kismet](https://img.shields.io/badge/Kismet-0D1117?style=for-the-badge&logoColor=FF0033)
+
+### 🔴 Environment & Scripting
 ![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0033)
 ![Parrot](https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=FF0033)
+![BlackArch](https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=FF0033)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF0033)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0033)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF0033)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF0033)
 
 </div>
 
@@ -113,7 +193,7 @@
 
 <!-- SKILL ICONS ROW -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,wireshark,ubuntu,debian,nginx,mysql,postgres&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,wireshark,ubuntu,debian,powershell,mysql,postgres,nginx,redis&theme=dark&perline=14" />
 </div>
 
 <br>
@@ -154,7 +234,7 @@
 
 ---
 
-<!-- OPERATIONS -->
+<!-- ACTIVE OPERATIONS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24" />
   &nbsp;Active Operations
@@ -173,9 +253,9 @@
   <sub><b>Web apps</b><br>via bug bounty</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🧠_RESEARCHING-0D1117?style=flat-square&labelColor=FF0033" />
+  <img src="https://img.shields.io/badge/🧠_MENTORING-0D1117?style=flat-square&labelColor=FF0033" />
   <br>
-  <sub><b>AD attack paths</b><br>& lateral movement</sub>
+  <sub><b>New hackers</b><br>zero to bounty</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/⚔️_TRAINING-0D1117?style=flat-square&labelColor=FF0033" />
@@ -190,7 +270,7 @@
 ---
 
 <!-- SKILLS BY DOMAIN -->
-<h2 align="center">📊 Attack Surface</h2>
+<h2 align="center">📊 Attack Surface & Expertise</h2>
 
 <details open>
 <summary><b>🔴 Web Application Pentesting</b></summary>
@@ -204,6 +284,7 @@
 | Auth Bypass & Session Attacks | `███████████████░░░` | Proficient |
 | API Security Testing | `███████████████░░░` | Proficient |
 | Business Logic Flaws | `██████████████░░░░` | Proficient |
+| SSTI / XXE / Deserialization | `██████████████░░░░` | Proficient |
 
 </details>
 
@@ -218,11 +299,12 @@
 | DCSync / Golden Ticket | `██████████████░░░░` | Working |
 | BloodHound Path Analysis | `████████████████░░` | Advanced |
 | SMB Relay & NTLM Coercion | `██████████████░░░░` | Working |
+| LLMNR / NBT-NS Poisoning | `███████████████░░░` | Proficient |
 
 </details>
 
 <details>
-<summary><b>🔴 Bug Bounty</b></summary>
+<summary><b>🔴 Bug Bounty Hunting</b></summary>
 <br>
 
 | Skill | Level | Experience |
@@ -230,8 +312,9 @@
 | Recon Automation | `█████████████████░` | Advanced |
 | Subdomain Enumeration | `█████████████████░` | Advanced |
 | Vulnerability Chaining | `███████████████░░░` | Proficient |
-| Impact Analysis | `████████████████░░` | Advanced |
+| Impact Analysis & CVSS | `████████████████░░` | Advanced |
 | Professional Reporting | `████████████████░░` | Advanced |
+| Duplicate Avoidance | `███████████████░░░` | Proficient |
 
 </details>
 
@@ -245,6 +328,7 @@
 | Metadata Extraction | `████████████████░░` | Advanced |
 | DNS & Domain Intel | `███████████████░░░` | Proficient |
 | Social Media Intel (SOCMINT) | `██████████████░░░░` | Proficient |
+| Geolocation & Image Analysis | `███████████████░░░` | Proficient |
 | Tool Customization | `████████████████░░` | Advanced |
 
 </details>
@@ -257,8 +341,24 @@
 |-------|:-----:|:----------:|
 | Python for Pentesting | `████████████████░░` | Advanced |
 | Bash Scripting | `█████████████████░` | Advanced |
+| PowerShell for AD | `██████████████░░░░` | Working |
 | Custom Exploit Dev | `██████████████░░░░` | Working |
 | Tool Integration | `███████████████░░░` | Proficient |
+| C2 Framework Basics | `█████████████░░░░░` | Working |
+
+</details>
+
+<details>
+<summary><b>🔴 Mentoring & Community</b></summary>
+<br>
+
+| Skill | Level | Experience |
+|-------|:-----:|:----------:|
+| Teaching Beginners | `█████████████████░` | Advanced |
+| Hands-on Lab Setup | `████████████████░░` | Advanced |
+| Curriculum Design | `███████████████░░░` | Proficient |
+| Doubt Solving & Guidance | `█████████████████░` | Advanced |
+| Community Building | `████████████████░░` | Advanced |
 
 </details>
 
@@ -266,7 +366,7 @@
 
 ---
 
-<!-- CODE OF CONDUCT -->
+<!-- OPERATOR'S CODE -->
 <h2 align="center">⚔️ Operator's Code</h2>
 
 ```bash
@@ -281,6 +381,7 @@ echo "[+] The scope exists for a reason — respect it."
 echo "[+] Report responsibly. Disclosure is a duty, not a trophy."
 echo "[+] Break things to understand them. Fix nothing without permission."
 echo "[+] Share knowledge. The community made you — give back."
+echo "[+] Mentor the next generation. You were once a beginner too."
 echo "[+] Stay curious. Stay humble. Stay legal."
 echo "[+] HACK THE PLANET 🌍"
 ```
@@ -318,7 +419,7 @@ echo "[+] HACK THE PLANET 🌍"
 
 <!-- PHILOSOPHY QUOTE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=The+quieter+you+become%2C+the+more+you+can+hear.;Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;HACK+THE+PLANET+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=850&height=50&lines=Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;Teach+others+to+do+the+same.;Kerala+Based+Hacker+%7C+Mentor+%7C+Red+Teamer;HACK+THE+PLANET+%F0%9F%8C%8D" />
 </div>
 
 <br>
