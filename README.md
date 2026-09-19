@@ -1,19 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════
      MUHAMMED BILAL TA — Kerala Penetration Tester & Bug Hunter
-     Cyber Security Mentor · Red Team Operator · Bug Hunter
-     github.com/bilnxny
+     Red Theme · Green Logos · Working Animations
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:0D1117&height=220&section=header&text=Muhammed%20Bilal%20TA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cyber%20Security%20Mentor%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:00FF41&height=220&section=header&text=Muhammed%20Bilal%20TA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cyber%20Security%20Mentor%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
-<!-- ANIMATED NAME -->
+<!-- ANIMATED NAME — WORKING VERSION -->
 <div align="center">
-  <a href="https://github.com/bilnxny">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=850&height=60&lines=Muhammed+Bilal+TA;Cyber+Security+Mentor;Red+Team+Operator;Bug+Hunter;Kerala+Based+Hacker;HACK+THE+PLANET" alt="Typing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=850&height=60&lines=Muhammed+Bilal+TA;Cyber+Security+Mentor;Red+Team+Operator;Bug+Hunter;Kerala+Based+Hacker;HACK+THE+PLANET" alt="Typing" />
 </div>
 
 <br>
@@ -21,14 +18,14 @@
 <!-- CONNECT -->
 <div align="center">
   <a href="https://github.com/bilnxny"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF0033" /></a>
-  <a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg"><img src="https://img.shields.io/badge/YouTube-Cyber%20Phoenix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/bilxnvyy"><img src="https://img.shields.io/badge/Instagram-@bilxnvyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:muhanmedbilallalu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF0033?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg"><img src="https://img.shields.io/badge/YouTube-Cyber%20Phoenix-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
+  <a href="https://instagram.com/bilxnvyy"><img src="https://img.shields.io/badge/Instagram-@bilxnvyy-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
+  <a href="mailto:muhanmedbilallalu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0033" /></a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bilnxny&label=PROFILE+VIEWS&color=FF0033&style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/bilnxny?label=FOLLOWERS&style=for-the-badge&color=FF0033&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/bilnxny?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=0D1117" />
   <img src="https://img.shields.io/github/stars/bilnxny?label=STARS&style=for-the-badge&color=FF0033&labelColor=0D1117" />
 </div>
 
@@ -54,83 +51,79 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 
 ---
 
-## ⚔️ Arsenal — Tools & Skills
+## ⚔️ Arsenal — Tools with Green Logos
 
 ### 🔴 Reconnaissance & OSINT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,linux&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash,python,linux,debian,ubuntu,regex&theme=dark&perline=6" height="60" />
 </p>
 
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=FF0033&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033&labelColor=0D1117)
-![Shodan](https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=FF0033&labelColor=0D1117)
-![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Amass](https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Subfinder](https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=0D1117)
+![Shodan](https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=00FF41&labelColor=0D1117)
+![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Amass](https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Subfinder](https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
 ### 🔴 Web Exploitation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,nodejs&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,javascript,nodejs,nginx,apache&theme=dark&perline=6" height="60" />
 </p>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF0033&labelColor=0D1117)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF0033&labelColor=0D1117)
-![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0033&labelColor=0D1117)
-![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Nuclei](https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![WPScan](https://img.shields.io/badge/WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=FF0033&labelColor=0D1117)
-![XSStrike](https://img.shields.io/badge/XSStrike-0D1117?style=for-the-badge&logo=javascript&logoColor=FF0033&labelColor=0D1117)
-![Commix](https://img.shields.io/badge/Commix-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033&labelColor=0D1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-0D1117?style=for-the-badge&logo=portswigger&logoColor=00FF41&labelColor=0D1117)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF41&labelColor=0D1117)
+![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0D1117)
+![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Nuclei](https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![WPScan](https://img.shields.io/badge/WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=00FF41&labelColor=0D1117)
+![Commix](https://img.shields.io/badge/Commix-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
 ### 🔴 Exploitation & Post-Exploitation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,windows,linux&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=powershell,windows,linux,vim&theme=dark&perline=4" height="55" />
 </p>
 
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF0033&labelColor=0D1117)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&logo=python&logoColor=FF0033&labelColor=0D1117)
-![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&logo=windows&logoColor=FF0033&labelColor=0D1117)
-![Responder](https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![PowerShell Empire](https://img.shields.io/badge/PowerShell_Empire-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033&labelColor=0D1117)
-![Sliver C2](https://img.shields.io/badge/Sliver_C2-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=0D1117)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117)
+![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=0D1117)
+![Responder](https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Sliver C2](https://img.shields.io/badge/Sliver_C2-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
 ### 🔴 Password & Hash Attacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark&perline=3" height="50" />
 </p>
 
-![Hashcat](https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![John The Ripper](https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Medusa](https://img.shields.io/badge/Medusa-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Hashcat](https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Medusa](https://img.shields.io/badge/Medusa-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
 ### 🔴 Wireless & Network
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,debian&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,debian&theme=dark&perline=3" height="50" />
 </p>
 
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logo=wifi&logoColor=FF0033&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033&labelColor=0D1117)
-![Bettercap](https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
-![Kismet](https://img.shields.io/badge/Kismet-0D1117?style=for-the-badge&logo=wifi&logoColor=FF0033&labelColor=0D1117)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logo=wifi&logoColor=00FF41&labelColor=0D1117)
+![Bettercap](https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logoColor=00FF41&labelColor=0D1117)
+![Kismet](https://img.shields.io/badge/Kismet-0D1117?style=for-the-badge&logo=wifi&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
@@ -140,41 +133,37 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
   <img src="https://skillicons.dev/icons?i=kali,linux,arch,debian,ubuntu,python,bash,powershell,docker,git,vim,regex&theme=dark&perline=12" height="60" />
 </p>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0033&labelColor=0D1117)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=FF0033&labelColor=0D1117)
-![BlackArch](https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=FF0033&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF0033&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0033&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033&labelColor=0D1117)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF0033&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF0033&labelColor=0D1117)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=0D1117)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=00FF41&labelColor=0D1117)
+![BlackArch](https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=00FF41&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0D1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
-### 🔴 Databases & Web Servers
+### 🔴 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,nginx,apache&theme=dark&perline=6" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" height="55" />
 </p>
 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0033&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF0033&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FF0033&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF0033&labelColor=0D1117)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=FF0033&labelColor=0D1117)
-![Apache](https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=FF0033&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
 ### 🔴 Platforms & Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF0033&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF0033&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Bugcrowd-0D1117?style=for-the-badge&logo=bugcrowd&logoColor=FF0033&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=FF0033&labelColor=0D1117" />
-</p>
+![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0D1117)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=0D1117)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0D1117?style=for-the-badge&logo=bugcrowd&logoColor=00FF41&labelColor=0D1117)
+![HackerOne](https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=00FF41&labelColor=0D1117)
 
 <br>
 
@@ -183,16 +172,16 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 ## 📊 Operator Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=C9D1D9&border_color=FF0033&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=FF0033&icon_color=00FF41&text_color=C9D1D9&border_color=FF0033&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=FF0033&text_color=C9D1D9&border_color=FF0033&langs_count=8&hide=html,css" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bilnxny&theme=dark&background=0D1117&border=FF0033&stroke=FF0033&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com/?user=bilnxny&theme=dark&background=0D1117&border=FF0033&stroke=FF0033&ring=00FF41&fire=FF0033&currStreakLabel=FF0033&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=0D1117&color=FF0033&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=0D1117&color=FF0033&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 <div align="center">
@@ -220,7 +209,7 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 </td>
 <td valign="top" width="50%">
 
-### 🔴 Network & Active Directory
+### 🟢 Network & Active Directory
 - Internal Pivoting
 - Kerberoasting · AS-REP Roasting
 - DCSync · Golden Ticket
@@ -244,7 +233,7 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 </td>
 <td valign="top" width="50%">
 
-### 🔴 OSINT & Recon
+### 🟢 OSINT & Recon
 - Footprinting & Enumeration
 - Metadata Extraction
 - DNS & Domain Intelligence
@@ -267,7 +256,7 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 </td>
 <td valign="top" width="50%">
 
-### 🔴 Mentoring & Community
+### 🟢 Mentoring & Community
 - Teaching Beginners
 - Hands-on Lab Setup
 - Curriculum Design
@@ -289,7 +278,7 @@ If my tools, writeups, or mentoring helped you — consider supporting the missi
 <div align="center">
 
 <a href="https://buymeacoffee.com/bilnxny" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" />
 </a>
 
 <br><br>
@@ -297,7 +286,7 @@ If my tools, writeups, or mentoring helped you — consider supporting the missi
 **🇮🇳 UPI (India)**
 
 <a href="upi://pay?pa=YOUR_UPI_ID@upi&pn=Muhammed%20Bilal%20TA&cu=INR" target="_blank">
-  <img src="https://img.shields.io/badge/UPI-YOUR__UPI__ID@upi-FF0033?style=for-the-badge&logo=googlepay&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPI-YOUR__UPI__ID@upi-0D1117?style=for-the-badge&logo=googlepay&logoColor=00FF41" />
 </a>
 
 <br>
@@ -307,7 +296,7 @@ If my tools, writeups, or mentoring helped you — consider supporting the missi
 <br><br>
 
 <a href="https://paypal.me/bilnxny" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-Donate-0D1117?style=for-the-badge&logo=paypal&logoColor=00FF41" />
 </a>
 
 <br><br>
@@ -337,7 +326,7 @@ If my tools, writeups, or mentoring helped you — consider supporting the missi
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=850&height=50&lines=Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;Kerala+Based+Hacker+%7C+Mentor+%7C+Red+Teamer;HACK+THE+PLANET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&height=50&lines=Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;Kerala+Based+Hacker+%7C+Mentor+%7C+Red+Teamer;HACK+THE+PLANET" />
 </div>
 
 <br>
@@ -348,5 +337,5 @@ If my tools, writeups, or mentoring helped you — consider supporting the missi
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF0033&height=120&section=footer&text=HACK%20THE%20PLANET%20%F0%9F%8C%8D&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:FF0033&height=120&section=footer&text=HACK%20THE%20PLANET%20%F0%9F%8C%8D&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
 </div>
