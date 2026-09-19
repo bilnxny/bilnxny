@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Hacker Animations
 
 on:
   schedule:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  animations:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -20,14 +20,38 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      # ═══════════════════════════════════════
+      # 1. SNAKE ANIMATION (RED)
+      # ═══════════════════════════════════════
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00FF41&color_dots=001100,003300,006600,00CC00,00FF41
-            dist/github-contribution-grid-snake.svg?color_snake=00FF41&color_dots=001100,003300,006600,00CC00,00FF41
+            dist/github-contribution-grid-snake-dark.svg?color_snake=FF0033&color_dots=1A0000,3D0000,7A0000,CC0000,FF0033
+            dist/github-contribution-grid-snake.svg?color_snake=FF0033&color_dots=1A0000,3D0000,7A0000,CC0000,FF0033
 
+      # ═══════════════════════════════════════
+      # 2. ACTIVITY PULSE GRAPH (CUSTOM)
+      # ═══════════════════════════════════════
+      - name: Generate Activity Graph
+        uses: actions/checkout@v4
+        with:
+          repository: Ashutosh00710/github-readme-activity-graph
+          path: activity-graph
+
+      # ═══════════════════════════════════════
+      # 3. GENERATE BADGE ASSETS
+      # ═══════════════════════════════════════
+      - name: Generate Custom Badges
+        run: |
+          mkdir -p dist
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50"><rect width="400" height="50" fill="#000000" stroke="#FF0033"/><text x="20" y="32" font-family="monospace" font-size="18" fill="#FFFFFF">[ + ] STATUS: OPERATIONAL</text></svg>' > dist/status.svg
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50"><rect width="400" height="50" fill="#000000" stroke="#FF0033"/><text x="20" y="32" font-family="monospace" font-size="18" fill="#FF0033">[ ! ] INTRUSION DETECTED</text></svg>' > dist/alert.svg
+
+      # ═══════════════════════════════════════
+      # 4. PUSH ALL TO OUTPUT BRANCH
+      # ═══════════════════════════════════════
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
