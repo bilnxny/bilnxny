@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MUHAMMED BILAL TA — cyber security analyst & Bug Hunter
+     MUHAMMED BILAL TA — Kerala Penetration Tester & Bug Hunter
      Cyber Security Mentor · Red Team Operator · Bug Hunter
      github.com/bilnxny
      ═══════════════════════════════════════════════════════════ -->
@@ -44,7 +44,22 @@
 </h2>
 
 ```typescript
-
+interface SecurityOperator {
+  name:         string;
+  alias:        string;
+  role:         string[];
+  location:     string;
+  experience:   string;
+  speciality:   string[];
+  arsenal:      string[];
+  domain:       string[];
+  current:      string;
+  mentor:       string;
+  classified:   string;
+  certifications: string[];
+  contact:      Record<string, string>;
+  motto:        string;
+}
 
 const bilal: SecurityOperator = {
   name:         "Muhammed Bilal TA",
@@ -196,8 +211,9 @@ const bilal: SecurityOperator = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=FF0033&text_color=C9D1D9&border_color=FF0033&langs_count=8&hide=html,css" />
 </div>
 
+<!-- FIXED STREAK STATS — moved from herokuapp to demolab (working) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilnxny&theme=dark&background=0D1117&border=FF0033&stroke=FF0033&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com/?user=bilnxny&theme=dark&background=0D1117&border=FF0033&stroke=FF0033&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
@@ -346,6 +362,55 @@ const bilal: SecurityOperator = {
 | Community Building | `████████████████░░` | Advanced |
 
 </details>
+
+<br>
+
+---
+
+<!-- SUPPORT / DONATE SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jOz35yxbuhvVQ/giphy.gif" width="26" />
+  &nbsp;Support My Work
+</h2>
+
+<div align="center">
+
+<p><b>If my tools, writeups, or mentoring helped you — consider supporting the mission.</b></p>
+
+<br>
+
+<!-- BUY ME A COFFEE -->
+<a href="https://buymeacoffee.com/bilnxny" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+<br><br>
+
+<!-- UPI SUPPORT FOR INDIA -->
+<p><b>🇮🇳 UPI Support (India)</b></p>
+
+<a href="upi://pay?pa=bilnxny@upi&pn=Muhammed%20Bilal%20TA&cu=INR" target="_blank">
+  <img src="https://img.shields.io/badge/UPI-bilnxny%40upi-FF0033?style=for-the-badge&logo=googlepay&logoColor=white" />
+</a>
+
+<br><br>
+
+<p>Scan &amp; Pay via any UPI app: <b>GPay · PhonePe · Paytm · BHIM</b></p>
+
+<br>
+
+<!-- PAYPAL (optional international) -->
+<a href="https://paypal.me/bilnxny" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>
+💰 Every contribution fuels more tools, more writeups, and free mentoring for beginners.
+</sub>
+
+</div>
 
 <br>
 
