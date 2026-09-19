@@ -1,30 +1,30 @@
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=200&section=header&text=Muhammed%20Bilal%20TA&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=Cyber%20Security%20Mentor%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Bug%20Hunter&descAlignY=60&descSize=16&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:000000&height=200&section=header&text=Muhammed%20Bilal%20TA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Cyber%20Security%20Mentor%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Bug%20Hunter&descAlignY=60&descSize=16&animation=twinkling" width="100%" />
 
 <!-- ANIMATED NAME TYPING -->
 <a href="https://github.com/bilnxny">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=70&lines=%5B+Muhammed+Bilal+TA+%5D;%5B+Cyber+Security+Mentor+%5D;%5B+Red+Team+Operator+%5D;%5B+Bug+Hunter+%5D;%5B+Kerala+Based+Hacker+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=500&color=FF0033&background=00000000&center=true&vCenter=true&width=900&height=70&lines=%5B+Muhammed+Bilal+TA+%5D;%5B+Cyber+Security+Mentor+%5D;%5B+Red+Team+Operator+%5D;%5B+Bug+Hunter+%5D;%5B+Kerala+Based+Hacker+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
 </a>
 
 <!-- HACKER ASCII ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=1500&pause=300&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=30&lines=%3E+Initializing+system...;%3E+Loading+payloads+%5B%2B%2B%2B%2B%2B%5D+100%25;%3E+Access+Granted.;%3E+Welcome+to+the+matrix." alt="Boot Sequence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=1500&pause=300&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=%3E+Initializing+system...;%3E+Loading+payloads+%5B%2B%2B%2B%2B%2B%5D+100%25;%3E+Access+Granted.;%3E+Welcome+to+the+matrix." alt="Boot Sequence" />
 
 <br>
 
 <!-- SOCIAL BADGES -->
-<a href="https://github.com/bilnxny"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
-<a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg"><img src="https://img.shields.io/badge/YouTube-Cyber%20Phoenix-000000?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
-<a href="https://instagram.com/bilxnvyy"><img src="https://img.shields.io/badge/Instagram-@bilxnvyy-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
-<a href="mailto:muhanmedbilallalu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+<a href="https://github.com/bilnxny"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0033" /></a>
+<a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg"><img src="https://img.shields.io/badge/YouTube-Cyber%20Phoenix-000000?style=for-the-badge&logo=youtube&logoColor=FF0033" /></a>
+<a href="https://instagram.com/bilxnvyy"><img src="https://img.shields.io/badge/Instagram-@bilxnvyy-000000?style=for-the-badge&logo=instagram&logoColor=FF0033" /></a>
+<a href="mailto:muhanmedbilallalu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=FF0033" /></a>
 
 <br><br>
 
 <!-- VISITOR + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=bilnxny&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/bilnxny?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/bilnxny?label=STARS&style=for-the-badge&color=00FF41&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=bilnxny&label=PROFILE+VIEWS&color=FF0033&style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/bilnxny?label=FOLLOWERS&style=for-the-badge&color=FF0033&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/bilnxny?label=STARS&style=for-the-badge&color=FF0033&labelColor=000000" />
 
 </div>
 
@@ -67,13 +67,13 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,debian&theme=dark&perline=4" height="45" />
 </p>
 
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=00FF41)
-![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logoColor=00FF41)
-![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge&logoColor=00FF41)
-![Subfinder](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=00FF41)
-![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FF0033)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF0033)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=FF0033)
+![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logoColor=FF0033)
+![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge&logoColor=FF0033)
+![Subfinder](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=FF0033)
+![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logoColor=FF0033)
 
 ### 🔴 Web Exploitation
 
@@ -81,12 +81,12 @@
   <img src="https://skillicons.dev/icons?i=wordpress,php,javascript,nodejs&theme=dark&perline=4" height="45" />
 </p>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-000000?style=for-the-badge&logo=portswigger&logoColor=00FF41)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
-![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=00FF41)
-![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logoColor=00FF41)
-![WPScan](https://img.shields.io/badge/WPScan-000000?style=for-the-badge&logo=wordpress&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-000000?style=for-the-badge&logo=portswigger&logoColor=FF0033)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=FF0033)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=mysql&logoColor=FF0033)
+![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=FF0033)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logoColor=FF0033)
+![WPScan](https://img.shields.io/badge/WPScan-000000?style=for-the-badge&logo=wordpress&logoColor=FF0033)
 
 ### 🔴 Exploitation & Post-Exploitation
 
@@ -94,19 +94,19 @@
   <img src="https://skillicons.dev/icons?i=powershell,windows,linux,vim&theme=dark&perline=4" height="45" />
 </p>
 
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=00FF41)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-![Impacket](https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge&logoColor=00FF41)
-![Sliver](https://img.shields.io/badge/Sliver_C2-000000?style=for-the-badge&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0033)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=FF0033)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=windows&logoColor=FF0033)
+![Impacket](https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logo=python&logoColor=FF0033)
+![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge&logoColor=FF0033)
+![Sliver](https://img.shields.io/badge/Sliver_C2-000000?style=for-the-badge&logoColor=FF0033)
 
 ### 🔴 Password Attacks
 
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=00FF41)
-![John](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logoColor=00FF41)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=00FF41)
-![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge&logoColor=00FF41)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=FF0033)
+![John](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logoColor=FF0033)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=FF0033)
+![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge&logoColor=FF0033)
 
 ### 🔴 Environment & Code
 
@@ -122,10 +122,10 @@
 
 ### 🔴 Platforms
 
-![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
-![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FF41)
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=00FF41)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=FF0033)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF0033)
+![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=FF0033)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=FF0033)
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -135,17 +135,17 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Operator Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&bg_color=000000&title_color=FF0033&icon_color=FFFFFF&text_color=FFFFFF&border_color=FF0033&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&langs_count=8&hide=html,css" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=bilnxny&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&bg_color=000000&title_color=FF0033&text_color=FFFFFF&border_color=FF0033&langs_count=8&hide=html,css" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Attack%20Timeline" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=bilnxny&background=000000&border=FF0033&stroke=FF0033&ring=FFFFFF&fire=FF0033&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=000000&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=Attack%20Timeline" width="100%" />
 
 <br><br>
 
@@ -161,7 +161,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contribution Matrix
 
-<img src="https://raw.githubusercontent.com/bilnxny/bilnxny/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/bilnxny/bilnxny/output/github-contribution-grid-snake-dark.svg?v=3" width="100%" alt="Snake Animation" />
 
 </div>
 
@@ -267,21 +267,21 @@ echo "[+] HACK THE PLANET 🌍"
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Establish Connection
 
 <a href="https://github.com/bilnxny">
-  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=FF0033" />
 </a>
 <a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=FF0033" />
 </a>
 <a href="https://instagram.com/bilxnvyy">
-  <img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=FF0033" />
 </a>
 <a href="mailto:muhanmedbilallalu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=FF0033" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=850&height=50&lines=Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;Kerala+Based+Hacker+%7C+Mentor+%7C+Red+Teamer;HACK+THE+PLANET+%F0%9F%8C%8D" alt="Philosophy" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=FF0033&background=00000000&center=true&vCenter=true&width=850&height=50&lines=Every+system+has+a+weakness.;Find+it.+Report+it.+Get+paid.;Kerala+Based+Hacker+%7C+Mentor+%7C+Red+Teamer;HACK+THE+PLANET+%F0%9F%8C%8D" alt="Philosophy" />
 
 <br>
 
@@ -292,4 +292,4 @@ echo "[+] HACK THE PLANET 🌍"
 </div>
 
 <!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=150&section=footer&text=HACK%20THE%20PLANET&fontSize=32&fontColor=00FF41&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:000000&height=150&section=footer&text=HACK%20THE%20PLANET&fontSize=32&fontColor=FFFFFF&animation=twinkling" width="100%" />
