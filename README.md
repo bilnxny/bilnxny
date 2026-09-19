@@ -43,20 +43,9 @@
 </h2>
 
 ```typescript
-interface SecurityOperator {
-  name:         string;
-  alias:        string;
-  role:         string[];
-  location:     string;
-  arsenal:      string[];
-  domain:       string;
-  current:      string;
-  classified:   string;
-  contact:      Record<string, string>;
-  motto:        string;
-}
 
-const bilal: SecurityOperator = {
+
+
   name:       "Muhammed Bilal TA",
   alias:      "bilnxny",
   role:       ["Penetration Tester", "Bug Hunter", "Red Team Operator"],
