@@ -1,172 +1,209 @@
+<!-- ==================== ANIMATED HACKING HEADER ==================== -->
 <div align="center">
 
-<!-- ==================== ANIMATED HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=200&section=header&text=Joyal%20Shaji&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Ethical%20Hacker%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=220&section=header&text=Muhammed%20Bilal%20TA&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20%7C%20Bug%20Hunter&descAlignY=58&descSize=20" width="100%" />
 
-<!-- ==================== TYPING ANIMATION ==================== -->
-<a href="https://github.com/joyalshaji135">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%3E+Initializing+secure+connection...;%3E+Access+Granted.+Welcome+to+my+profile.;%3E+Full+Stack+Developer+%7C+DevOps+Enthusiast;%3E+Breaking+things+ethically+since+day+one.;%3E+Self-taught.+Self-driven.+Always+learning." alt="Typing SVG" />
+<!-- ==================== HACKING TYPING ANIMATION ==================== -->
+<a href="https://github.com/cyberphoenix369">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&random=false&width=750&height=70&lines=%3E+Initializing+offensive+security+suite...;%3E+Access+Granted.+Welcome+to+the+red+side.;%3E+Red+Team+Operator+%7C+Penetration+Tester;%3E+Bug+Hunter+%7C+Active+Directory+Specialist;%3E+I+break+things+legally.;%3E+Think+like+an+attacker.+Report+like+a+pro." alt="Typing SVG" />
 </a>
 
-<!-- ==================== PROFILE VIEWS BADGE ==================== -->
+<!-- ==================== HACKER TERMINAL BOOT ==================== -->
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joyalshaji135&label=PROFILE+VIEWS&color=00FF00&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1500&pause=400&color=00FF00&center=true&vCenter=true&random=false&width=700&height=40&lines=%5BOK%5D+Mounting+%2Fdev%2Fsda1...;%5BOK%5D+Loading+kernel+modules...;%5BOK%5D+Starting+network+services...;%5BOK%5D+Initializing+Burp+Suite+proxy...;%5BOK%5D+Nmap+scanner+ready...;%5BOK%5D+Metasploit+framework+loaded...;%5BWARN%5D+Firewall+detected+%E2%80%94+bypassing...;%5BOK%5D+Privilege+escalation+successful.;%5B%2B%5D+Session+established+as+root." alt="Terminal Boot" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=cyberphoenix369&label=PROFILE+VIEWS&color=FF0000&style=flat-square)
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT SECTION ==================== -->
-## `<span style="color:#00FF00">$ whoami</span>`
+<!-- ==================== WHOAMI TERMINAL ==================== -->
+## `<span style="color:#FF0000">$ whoami</span>`
 
 ```bash
-┌──(joyal㉿github)-[~]
-└─$ cat /etc/profile.d/joyal.sh
+┌──(bilal㉿redteam)-[~]
+└─$ cat /etc/profile.d/muhammed.sh
 ```
 
-> **"I don't just write code; I build ecosystems. From full-stack applications to secure infrastructure, I operate at the intersection of development and security."**
+> **"I don't build applications. I break them — legally, ethically, and professionally."**
 
 ```yaml
-👤 User:       Joyal Shaji
-🎯 Role:       Full Stack Developer
-📍 Focus:      DevOps • Cloud Security • Web Development
-⚡ Superpower:  Bridging development and operations with a security-first mindset
-🛠️  Rig:        VS Code • Docker • Linux • AWS
-🌐 Website:    joyal-shaji.netlify.app
-📧 Contact:    Available via GitHub
+👤 Name:      Muhammed Bilal TA
+🎯 Role:      Red Team Operator | Penetration Tester | Bug Hunter
+📍 Focus:     Web App Pentesting • Network Pentesting • Active Directory • OSINT
+⚡ Mindset:   Think like an attacker, report like a professional.
+🛠️  Arsenal:   Burp Suite • Nmap • Metasploit • BloodHound • Sliver • Python • Bash
+🎓 Domain:    Offensive Security | Aerospace Systems Security
+📺 YouTube:   Cyber Phoenix — youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg
+📧 Contact:   your.email@example.com
 ```
 
-- 🔭 **Currently:** Building scalable web applications and automating infrastructure
-- 🌱 **Learning:** Advanced DevOps, Kubernetes, and Cloud Security
-- 👯 **Open to:** Collaborations on open-source projects and security research
-- 💬 **Ask me about:** Full Stack Development, DevOps, Python, JavaScript
-- ⚡ **Fun fact:** I debug with `console.log()` and I'm not ashamed of it
+- 🔭 **Currently:** Hunting bugs, cracking boxes, and building red team tooling
+- 🌱 **Learning:** Advanced Active Directory attacks, evasion, and cloud pentesting
+- 👯 **Open to:** Bug bounty collabs, CTF teams, and security research
+- 💬 **Ask me about:** Web exploitation, recon, privilege escalation, OSINT, reporting
+- ⚡ **Fun fact:** My favorite command is `sudo rm -rf /` — in a lab, obviously.
 
 ---
 
-<!-- ==================== TECH ARSENAL ==================== -->
-## `<span style="color:#00FF00">$ cat skills.txt</span>`
+<!-- ==================== ARSENAL ==================== -->
+## `<span style="color:#FF0000">$ cat arsenal.txt</span>`
 
 <div align="center">
 
-### **⚔️ The Arsenal**
+### **⚔️ The Offensive Arsenal**
 
-| **Core & Systems** | **Web & Frontend** | **Cloud & DevOps** | **Security & Tools** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
-| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+**Recon & OSINT**  
+![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=owasp&logoColor=FF0000)
+![Subfinder](https://img.shields.io/badge/Subfinder-FF0000?style=for-the-badge&logo=go&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-FF0000?style=for-the-badge&logo=maltego&logoColor=white)
+
+**Exploitation**  
+![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-FF0000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashcat&logoColor=white)
+
+**Web Application**  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF0000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-FF0000?style=for-the-badge&logo=go&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF0000?style=for-the-badge&logo=go&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-FF0000?style=for-the-badge&logo=go&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-FF0000?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Red Team & Active Directory**  
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-FF0000?style=for-the-badge&logo=windows&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![Sliver](https://img.shields.io/badge/Sliver-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Scripting & Automation**  
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF0000?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## `<span style="color:#00FF00">$ ls -la projects/</span>`
+<!-- ==================== OPERATIONS ==================== -->
+## `<span style="color:#FF0000">$ ls -la operations/</span>`
 
 <div align="center">
 
-### **🔬 Magnus Opus — Featured Work**
+### **🔬 Featured Operations & Research**
 
-| **Project** | **Class** | **Description** | **Tech** |
+| **Operation** | **Class** | **Description** | **Tech** |
 |:---:|:---:|:---|:---:|
-| **[CNN-Implementation](https://github.com/joyalshaji135/CNN-Implementation)** | 🏆 S-Tier | Automated detection of COVID-19 in real-time using Deep CNN models for preliminary screening | `Python` `TensorFlow` `Jupyter` |
-| **[Portfolio Website](https://joyal-shaji.netlify.app/)** | 🌐 Live | Personal portfolio showcasing projects and skills with modern UI/UX | `HTML` `CSS` `JavaScript` |
-| **[DevOps Automation](https://github.com/joyalshaji135)** | ⚙️ Infra | CI/CD pipelines, container orchestration, and infrastructure as code | `Docker` `K8s` `Terraform` |
+| **[Bug Bounty Reports](https://github.com/cyberphoenix369)** | 🏆 S-Tier | Real-world vulnerabilities discovered through responsible disclosure | `Burp` `Recon` `Web` |
+| **[CTF Writeups](https://github.com/cyberphoenix369)** | 🧠 Intel | HackTheBox / TryHackMe machine walkthroughs and exploitation notes | `Nmap` `Metasploit` `PrivEsc` |
+| **[Red Team Automation](https://github.com/cyberphoenix369)** | ⚙️ Tooling | Custom scripts for recon, exploitation, and post-exploitation | `Python` `Bash` `PowerShell` |
+| **[AD Attack Paths](https://github.com/cyberphoenix369)** | 🩸 BloodHound | Active Directory enumeration and privilege escalation paths | `BloodHound` `Impacket` |
+| **[Recon Pipeline](https://github.com/cyberphoenix369)** | 🛰️ Recon | Automated subdomain enumeration, probing, and vulnerability scanning | `Subfinder` `httpx` `Nuclei` |
 
 </div>
 
 <details>
-<summary><b>📂 Project Clusters (Click to Expand)</b></summary>
+<summary><b>📂 Operation Clusters (Click to Expand)</b></summary>
 
 <br/>
 
-**🔐 Security & Systems**
-- SSH Log Analyzer — Detect and analyze suspicious SSH login attempts
-- Phantom Cloak — Lightweight privacy tool for developers
-- Verify — Automated security verification scripts
+**🔐 Web Exploitation**
+- SQL Injection, XSS, SSRF, IDOR, and auth bypass research
+- Burp Suite extensions and custom payloads
+- API security testing and misconfiguration hunting
 
-**🤖 AI & Machine Learning**
-- MedAI — Medical imaging analysis with deep learning
-- Toxic Teammate Detection — NLP-powered toxicity detection in team communications
-- Stock Prediction — Time-series forecasting with LSTM networks
+**🕸️ Network & Active Directory**
+- Internal network pivoting and lateral movement
+- Kerberoasting, AS-REP Roasting, DCSync
+- BloodHound path analysis and domain dominance
 
-**🌐 Web & Utilities**
-- Smart Waste Management — IoT + Web dashboard for urban waste optimization
-- Astranova AI — AI-powered content generation platform
+**🎯 Bug Bounty**
+- Recon automation and asset discovery
+- Vulnerability validation and impact analysis
+- Professional report writing and PoC development
+
+**🧪 CTF & Labs**
+- HackTheBox, TryHackMe, VulnHub, PG Practice
+- Custom exploit development and shellcoding
+- Privilege escalation on Linux and Windows
 
 </details>
 
 ---
 
-<!-- ==================== TERMINAL STATS ==================== -->
-## `<span style="color:#00FF00">$ ./stats.sh</span>`
+<!-- ==================== STATS ==================== -->
+## `<span style="color:#FF0000">$ ./stats.sh</span>`
 
 <div align="center">
 
-<!-- GitHub Readme Stats with Tokyo Night Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyberphoenix369&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyberphoenix369&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyalshaji135&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00" width="100%" alt="Activity Graph" />
+<img src="https://streak-stats.demolab.com/?user=cyberphoenix369&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberphoenix369&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+<!-- ==================== MATRIX RAIN DIVIDER ==================== -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
 ---
 
 <!-- ==================== TROPHIES ==================== -->
-## `<span style="color:#00FF00">$ ./trophies.sh</span>`
+## `<span style="color:#FF0000">$ ./trophies.sh</span>`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
-## `<span style="color:#00FF00">$ fortune | cowsay</span>`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=cyberphoenix369&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 <!-- ==================== CONNECT ==================== -->
-## `<span style="color:#00FF00">$ ./connect.sh</span>`
+## `<span style="color:#FF0000">$ ./connect.sh</span>`
 
 <div align="center">
 
 ### **🔗 Establish Connection**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/joyalshaji135)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=netlify&logoColor=black)](https://joyal-shaji.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyalshaji135@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cyberphoenix369-100000?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/cyberphoenix369)
+[![YouTube](https://img.shields.io/badge/YouTube-Cyber%20Phoenix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ==================== HACKING FOOTER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=150&section=footer&text=Connection%20Terminated.&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%" />
 
-**`<span style="color:#00FF00">> Connection terminated. Stay secure. 🔒</span>`**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&height=30&lines=%5B%2B%5D+Clearing+logs...;%5B%2B%5D+Erasing+tracks...;%5B%2B%5D+Disconnecting+from+target...;%5B%2B%5D+Session+closed." alt="Terminal Exit" />
+
+**`<span style="color:#FF0000">> Connection terminated. Stay secure. 🔒</span>`**
 
 </div>
