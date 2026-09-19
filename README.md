@@ -1,140 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BILNXNY&fontSize=72&fontAlignY=38&fontColor=ffffff&color=0:050505,45:180000,75:8b0000,100:050505&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:000000&height=230&section=header&text=MUHAMMED%20BILAL%20TA&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=RED%20TEAM%20%7C%20WEB%20PENTESTING%20%7C%20CYBER%20SECURITY&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=700&color=FF1A1A&center=true&vCenter=true&width=950&height=60&lines=%5B+INITIALIZING+RED+TEAM+PROFILE...+%5D;%5B+RECON+%7C+ENUMERATION+%7C+EXPLOITATION+%5D;%5B+WEB+%7C+NETWORK+%7C+ACTIVE+DIRECTORY+%5D;%5B+OFFENSIVE+SECURITY+RESEARCH+%5D;%5B+MUHAMMED+BILAL+%7C+BILNXNY+%5D" alt="Typing"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=FF3131&center=true&vCenter=true&width=900&height=60&lines=MUHAMMED+BILAL+TA;CYBER+SECURITY+MENTOR;RED+TEAM+%7C+WEB+PENTESTING+%7C+VAPT;RECON+%7C+OSINT+%7C+NETWORK+SECURITY;AUTHORIZED+ACCESS+ONLY" alt="Typing"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=bilnxny&style=for-the-badge&color=8B0000&labelColor=050505&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=bilnxny&label=OPERATIONS%20VIEWED&color=8B0000&style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
 <a href="https://github.com/bilnxny">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="mailto:muhanmedbilallalu@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/SECURE%20CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A"/>
 </a>
 <a href="https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg">
-<img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 <a href="https://instagram.com/bilxnvyy">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF1A1A"/>
 </a>
 
 </div>
 
-<br>
-
 ---
 
-<div align="center">
+# `> OPERATOR PROFILE`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                     OPERATOR PROFILE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME       :: MUHAMMED BILAL TA                           ║
-║  ALIAS      :: BILNXNY                                     ║
-║  ROLE       :: CYBER SECURITY MENTOR                       ║
-║  DOMAIN     :: OFFENSIVE SECURITY                          ║
-║  SPECIALITY :: WEB • NETWORK • VAPT                        ║
-║  PLATFORM   :: LINUX • KALI • WINDOWS                      ║
-║  STATUS     :: ● ACTIVE                                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-# `01 / ABOUT THE OPERATOR`
-
-> **Cyber Security Mentor focused on offensive security, web application security, VAPT, reconnaissance and security research.**
-
-```bash
-┌──[bilnxny@kali]─[~]
-└─$ cat mission.txt
-
-MISSION:
-    Learn offensive security.
-    Understand attack surfaces.
-    Build practical security skills.
-    Discover vulnerabilities responsibly.
-    Help systems become more secure.
-
-MINDSET:
-    Recon → Enumerate → Validate → Document → Secure
+┌──────────────────────────────────────────────────────────────┐
+│                    RED TEAM OPERATOR                         │
+├──────────────────────────────────────────────────────────────┤
+│ NAME        : MUHAMMED BILAL TA                             │
+│ ALIAS       : bilnxny                                        │
+│ ROLE        : CYBER SECURITY MENTOR                         │
+│ FOCUS       : OFFENSIVE SECURITY                            │
+│ SPECIALITY  : WEB / NETWORK / VAPT                          │
+│ ENVIRONMENT : LINUX / KALI / WINDOWS                        │
+│ RESEARCH    : RED TEAM / BUG BOUNTY / OSINT                 │
+│ STATUS      : ACTIVE                                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `02 / OPERATIONAL DOMAINS`
+# `> OFFENSIVE SECURITY STACK`
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🔴 RED TEAM
-
-Reconnaissance  
-Enumeration  
-Initial Access  
-Privilege Escalation  
-Lateral Movement  
-Security Testing
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 WEB SECURITY
-
-OWASP  
-VAPT  
-API Security  
-Authentication  
-Access Control  
-Web Enumeration
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛰️ NETWORK
-
-TCP/IP  
-Packet Analysis  
-Service Enumeration  
-Network Security  
-Traffic Analysis  
-Infrastructure
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 OSINT
-
-Recon  
-DNS Intelligence  
-Subdomains  
-Metadata  
-Threat Intelligence  
-Attack Surface
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `03 / RECONNAISSANCE ARSENAL`
+## `01 // RECONNAISSANCE`
 
 <div align="center">
 
@@ -142,47 +56,32 @@ Attack Surface
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NMAP-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/AMASS-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/SUBFINDER-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/HTTPX-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/SHODAN-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/THEHARVESTER-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/NMAP-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/AMASS-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/SUBFINDER-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/HTTPX-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/SHODAN-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/THEHARVESTER-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
 
 ```text
-                         RECON PIPELINE
-
-       ┌──────────┐
-       │  TARGET  │
-       └────┬─────┘
-            │
-            ▼
-     ┌──────────────┐
-     │  DISCOVERY   │
-     └──────┬───────┘
-            │
-            ▼
-     ┌──────────────┐
-     │ ENUMERATION  │
-     └──────┬───────┘
-            │
-            ▼
-     ┌──────────────┐
-     │  ATTACK      │
-     │   SURFACE    │
-     └──────┬───────┘
-            │
-            ▼
-     ┌──────────────┐
-     │ VALIDATION   │
-     └──────────────┘
+TARGET DISCOVERY
+      ↓
+DNS ENUMERATION
+      ↓
+SUBDOMAIN DISCOVERY
+      ↓
+PORT SCANNING
+      ↓
+SERVICE ENUMERATION
+      ↓
+ATTACK SURFACE MAPPING
 ```
 
 ---
 
-# `04 / WEB APPLICATION SECURITY`
+# `02 // WEB APPLICATION SECURITY`
 
 <div align="center">
 
@@ -190,71 +89,63 @@ Attack Surface
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BURP_SUITE-050505?style=for-the-badge&logo=portswigger&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-050505?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SQLMAP-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/FFUF-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/NUCLEI-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/GOBUSTER-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=for-the-badge&logo=portswigger&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQLMAP-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/NUCLEI-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/GOBUSTER-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
 
-<br>
-
 ```text
-┌───────────────────────────────────────────────────────────┐
-│                  WEB SECURITY CHECKLIST                   │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  [✓] Reconnaissance                                       │
-│  [✓] Authentication                                       │
-│  [✓] Authorization                                        │
-│  [✓] Input Validation                                     │
-│  [✓] Session Security                                     │
-│  [✓] API Security                                         │
-│  [✓] Access Control                                       │
-│  [✓] Security Headers                                     │
-│  [✓] Business Logic                                       │
-│  [✓] Configuration Review                                 │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+OWASP
+├── Broken Access Control
+├── Authentication Failures
+├── Injection
+├── Security Misconfiguration
+├── XSS
+├── SSRF
+├── IDOR
+├── File Upload
+├── API Security
+└── Business Logic
 ```
 
 ---
 
-# `05 / NETWORK SECURITY`
+# `03 // NETWORK SECURITY`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,wireshark&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/WIRESHARK-050505?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-<img src="https://img.shields.io/badge/TCPDUMP-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/NETCAT-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/IMPACKET-050505?style=for-the-badge&logo=python&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/NETEXEC-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/TCPDUMP-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/NETCAT-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/NETEXEC-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/IMPACKET-111111?style=for-the-badge&logo=python&logoColor=FF1A1A"/>
 
 </div>
 
 ```text
-NETWORK
-│
+NETWORK ENUMERATION
 ├── TCP / UDP
 ├── DNS
 ├── HTTP / HTTPS
-├── SSH
-├── FTP
 ├── SMB
+├── FTP
+├── SSH
 ├── LDAP
 ├── Kerberos
-└── Packet Analysis
+└── Network Traffic Analysis
 ```
 
 ---
 
-# `06 / RED TEAM TOOLKIT`
+# `04 // RED TEAM OPERATIONS`
 
 <div align="center">
 
@@ -262,50 +153,42 @@ NETWORK
 
 <br><br>
 
-<img src="https://img.shields.io/badge/METASPLOIT-050505?style=for-the-badge&logo=metasploit&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/BLOODHOUND-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/RESPONDER-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/SLIVER-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/IMPACKET-050505?style=for-the-badge&logo=python&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/NETEXEC-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/METASPLOIT-111111?style=for-the-badge&logo=metasploit&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/BLOODHOUND-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/NETEXEC-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/CRACKMAPEXEC-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/RESPONDER-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/SLIVER-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
-
-<br>
-
-<div align="center">
 
 ```text
-       ┌───────────────┐
-       │ RECON         │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │ ENUMERATION   │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │ INITIAL ACCESS│
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │ PRIV ESC      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │ LATERAL MOVE  │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │ OBJECTIVE     │
-       └───────────────┘
-```
+RED TEAM LIFECYCLE
 
-</div>
+RECON
+  ↓
+INITIAL ACCESS
+  ↓
+EXECUTION
+  ↓
+PRIVILEGE ESCALATION
+  ↓
+PERSISTENCE
+  ↓
+CREDENTIAL ACCESS
+  ↓
+LATERAL MOVEMENT
+  ↓
+COLLECTION
+  ↓
+COMMAND & CONTROL
+  ↓
+REPORTING
+```
 
 ---
 
-# `07 / ACTIVE DIRECTORY`
+# `05 // ACTIVE DIRECTORY`
 
 <div align="center">
 
@@ -313,177 +196,229 @@ NETWORK
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BLOODHOUND-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/RUBEUS-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/KERBRUTE-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/POWERVIEW-050505?style=for-the-badge&logo=powershell&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/IMPACKET-050505?style=for-the-badge&logo=python&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/BLOODHOUND-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/IMPACKET-111111?style=for-the-badge&logo=python&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/KERBRUTE-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/RUBEUS-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/POWERVIEW-111111?style=for-the-badge&logo=powershell&logoColor=FFFFFF"/>
 
 </div>
 
 ```text
-                    ACTIVE DIRECTORY
+ACTIVE DIRECTORY
 
-                         DOMAIN
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-          USERS         GROUPS       COMPUTERS
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                      RELATIONSHIPS
-                           │
-                           ▼
-                   ATTACK PATH ANALYSIS
+LDAP
+ │
+ ├── Users
+ ├── Groups
+ ├── Computers
+ ├── Domain Controllers
+ └── Trust Relationships
+
+ATTACK SURFACE
+
+Kerberos
+NTLM
+SMB
+LDAP
+ACLs
+Delegation
+Credential Exposure
+Privilege Escalation
+Lateral Movement
 ```
 
 ---
 
-# `08 / OSINT & THREAT INTELLIGENCE`
+# `06 // EXPLOITATION & PASSWORD SECURITY`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SHODAN-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/MALTEGO-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/DNSRECON-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/WHOIS-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/THEHARVESTER-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/METASPLOIT-111111?style=for-the-badge&logo=metasploit&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/HASHCAT-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/HYDRA-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/SEARCHSPLOIT-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
 
 ---
 
-# `09 / PASSWORD & CREDENTIAL SECURITY`
+# `07 // OSINT & THREAT INTELLIGENCE`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HASHCAT-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/JOHN_THE_RIPPER-050505?style=for-the-badge&logoColor=FF3131"/>
-<img src="https://img.shields.io/badge/HYDRA-050505?style=for-the-badge&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/SHODAN-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/MALTEGO-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/THEHARVESTER-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/DNSRECON-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
 
+```text
+OSINT
+├── Domain Intelligence
+├── DNS Intelligence
+├── Infrastructure Discovery
+├── Username Enumeration
+├── Email Enumeration
+├── Metadata Analysis
+└── Threat Intelligence
+```
+
 ---
 
-# `10 / TECHNOLOGY STACK`
+# `08 // DEFENSIVE SECURITY`
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css,php&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git&theme=dark"/>
 
 <br><br>
 
-### SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark"/>
-
-<br><br>
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,postgres,vim&theme=dark&perline=7"/>
+<img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/LOG%20ANALYSIS-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/THREAT%20HUNTING-111111?style=for-the-badge&logoColor=FF1A1A"/>
+<img src="https://img.shields.io/badge/INCIDENT%20RESPONSE-111111?style=for-the-badge&logoColor=FF1A1A"/>
 
 </div>
 
 ---
 
-# `11 / SECURITY PLATFORMS`
+# `> OPERATING SYSTEMS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark"/>
+
+</div>
+
+---
+
+# `> PROGRAMMING & AUTOMATION`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css,php,git&theme=dark&perline=8"/>
+
+</div>
+
+```text
+AUTOMATION MINDSET
+
+Python
+ ├── Recon Automation
+ ├── API Interaction
+ ├── Security Scripts
+ └── Tool Development
+
+Bash
+ ├── Linux Automation
+ ├── Enumeration
+ └── Pentesting Workflows
+
+PowerShell
+ ├── Windows Administration
+ ├── Active Directory
+ └── Security Automation
+```
+
+---
+
+# `> SECURITY PLATFORMS`
 
 <div align="center">
 
 <a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/TRYHACKME-111111?style=for-the-badge&logo=tryhackme&logoColor=FF003C"/>
 </a>
 
 <a href="https://www.hackthebox.com/">
-<img src="https://img.shields.io/badge/HACK_THE_BOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
 <a href="https://www.hackerone.com/">
-<img src="https://img.shields.io/badge/HACKERONE-050505?style=for-the-badge&logo=hackerone&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HACKERONE-111111?style=for-the-badge&logo=hackerone&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.bugcrowd.com/">
-<img src="https://img.shields.io/badge/BUGCROWD-050505?style=for-the-badge&logo=bugcrowd&logoColor=F26822"/>
+<img src="https://img.shields.io/badge/BUGCROWD-111111?style=for-the-badge&logo=bugcrowd&logoColor=F26822"/>
 </a>
 
 </div>
 
 ---
 
-# `12 / CERTIFICATIONS & TRAINING`
+# `> CERTIFICATIONS & TRAINING`
+
+```text
+CERTIFICATIONS
+│
+├── Certified IT Infrastructure & Cyber SOC Analyst
+│
+├── EC-Council Cyber Security Analyst Training
+│
+├── Ethical Hacking Training
+│
+└── TryHackMe Security Learning Paths
+```
+
+---
+
+# `> CURRENT RESEARCH`
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                 SECURITY TRAINING                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  • Certified IT Infrastructure & Cyber SOC Analyst  ║
-║                                                      ║
-║  • EC-Council Cyber Security Analyst Training       ║
-║                                                      ║
-║  • Ethical Hacking Training                         ║
-║                                                      ║
-║  • TryHackMe Security Labs                          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────┐
+│             CURRENT OPERATIONS             │
+├────────────────────────────────────────────┤
+│                                            │
+│  [01] WEB APPLICATION SECURITY             │
+│  [02] VAPT                                 │
+│  [03] RED TEAM METHODOLOGY                 │
+│  [04] ACTIVE DIRECTORY                     │
+│  [05] BUG BOUNTY                            │
+│  [06] OSINT                                │
+│  [07] SECURITY AUTOMATION                  │
+│  [08] NETWORK SECURITY                     │
+│                                            │
+└────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# `13 / CURRENT FOCUS`
+# `> GITHUB INTELLIGENCE`
 
 <div align="center">
 
-| AREA | FOCUS |
-|:---:|:---:|
-| 🔴 | Red Team Operations |
-| 🌐 | Web Application Security |
-| 🛰️ | Network Security |
-| 🧠 | OSINT |
-| 🏴 | VAPT |
-| 🏢 | Active Directory |
-| ⚙️ | Security Automation |
-| 🐞 | Bug Bounty |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=050505&title_color=FF1A1A&icon_color=FF1A1A&text_color=FFFFFF&border_color=8B0000"/>
 
-</div>
-
----
-
-# `14 / GITHUB INTELLIGENCE`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bilnxny&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=050505&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&border_color=8B0000"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&langs_count=8&theme=dark&bg_color=050505&title_color=FF3131&text_color=FFFFFF&border_color=8B0000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilnxny&layout=compact&langs_count=8&theme=dark&bg_color=050505&title_color=FF1A1A&text_color=FFFFFF&border_color=8B0000"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=bilnxny&theme=dark&background=050505&border=8B0000&stroke=8B0000&ring=FF3131&fire=FF3131&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
+<img src="https://streak-stats.demolab.com/?user=bilnxny&theme=dark&background=050505&border=8B0000&stroke=8B0000&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
 ---
 
-# `15 / ACTIVITY MONITOR`
+# `> ACTIVITY GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=050505&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&hide_border=true&custom_title=BILNXNY%20ACTIVITY%20MONITOR" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilnxny&bg_color=050505&color=FFFFFF&line=FF1A1A&point=FFFFFF&area=true&hide_border=true&custom_title=OPERATOR%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
 
-# `16 / TROPHY ROOM`
+# `> TROPHY ROOM`
 
 <div align="center">
 
@@ -493,7 +428,7 @@ NETWORK
 
 ---
 
-# `17 / CONTRIBUTION MATRIX`
+# `> CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -503,75 +438,41 @@ NETWORK
 
 ---
 
-# `18 / OPERATOR MINDSET`
-
-<div align="center">
+# `> SECURITY PHILOSOPHY`
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│              RECON      →      UNDERSTAND               │
-│                                                         │
-│              ENUMERATE  →      ANALYZE                  │
-│                                                         │
-│              VALIDATE   →      DOCUMENT                 │
-│                                                         │
-│              REPORT     →      SECURE                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `19 / SECURITY PRINCIPLES`
-
-```text
-[01] RECON BEFORE ACTION
-
-[02] ENUMERATE THE ATTACK SURFACE
-
-[03] VALIDATE BEFORE REPORTING
-
-[04] DOCUMENT THE EVIDENCE
-
-[05] RESPECT AUTHORIZATION
-
-[06] REPORT RESPONSIBLY
-
-[07] KEEP LEARNING
-
-[08] STAY CURIOUS
+01  RECON BEFORE ACTION
+02  ENUMERATE EVERYTHING
+03  UNDERSTAND THE ATTACK SURFACE
+04  VALIDATE FINDINGS
+05  DOCUMENT THE EVIDENCE
+06  REPORT RESPONSIBLY
+07  NEVER EXCEED AUTHORIZATION
+08  KEEP LEARNING
 ```
 
 ---
 
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=FF3131&center=true&vCenter=true&width=850&height=50&lines=RECON.+ENUMERATE.+VALIDATE.+SECURE.;OFFENSIVE+MINDSET.+DEFENSIVE+PURPOSE.;LEARN.+BUILD.+BREAK.+SECURE.;AUTHORIZED+ACCESS+ONLY." alt="Footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=FF1A1A&center=true&vCenter=true&width=850&height=50&lines=RECON.+ENUMERATE.+VALIDATE.+SECURE.;OFFENSIVE+SECURITY+%7C+DEFENSIVE+MINDSET;LEARN.+BUILD.+BREAK.+SECURE.;AUTHORIZED+ACCESS+ONLY." alt="Security Footer"/>
 
 <br><br>
 
 ```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  root@bilnxny:~# ./operator_status.sh                 ║
-║                                                        ║
-║  OPERATOR       : BILNXNY                              ║
-║  SECURITY MODE  : OFFENSIVE RESEARCH                  ║
-║  STATUS         : ● ONLINE                             ║
-║  AUTHORIZATION  : REQUIRED                             ║
-║                                                        ║
-║  "THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER."     ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+root@bilnxny:~# ./operation.sh
+
+[+] SYSTEM       : ONLINE
+[+] OPERATOR     : BILNXNY
+[+] MODE         : RED TEAM
+[+] TARGET       : AUTHORIZED ENVIRONMENTS
+[+] STATUS       : ACTIVE
+
+root@bilnxny:~# _
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,45:180000,75:8b0000,100:050505&text=AUTHORIZED%20ACCESS%20ONLY&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=130&section=footer&text=AUTHORIZED%20ACCESS%20ONLY&fontSize=28&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 </div>
