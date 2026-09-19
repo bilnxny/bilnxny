@@ -54,61 +54,127 @@ I break systems to make them safer. 3+ years hunting vulnerabilities in web appl
 
 ---
 
-## ⚔️ Arsenal
+## ⚔️ Arsenal — Tools & Skills
 
-**Reconnaissance & OSINT**
+### 🔴 Reconnaissance & OSINT
 
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=FF0033)
-![Amass](https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&logoColor=FF0033)
-![Subfinder](https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logoColor=FF0033)
-![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=FF0033)
-![Shodan](https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=FF0033)
-![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=FF0033)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0D1117?style=for-the-badge&logoColor=FF0033)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,linux&theme=dark" height="48" />
+</p>
 
-**Web Exploitation**
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=FF0033&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033&labelColor=0D1117)
+![Shodan](https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=FF0033&labelColor=0D1117)
+![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Amass](https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Subfinder](https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![theHarvester](https://img.shields.io/badge/theHarvester-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF0033)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF0033)
-![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logoColor=FF0033)
-![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logoColor=FF0033)
-![Nuclei](https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=FF0033)
-![WPScan](https://img.shields.io/badge/WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=FF0033)
+<br>
 
-**Exploitation & Post-Exploitation**
+### 🔴 Web Exploitation
 
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF0033)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=FF0033)
-![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&logoColor=FF0033)
-![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=FF0033)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&logoColor=FF0033)
-![Responder](https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=FF0033)
-![Sliver](https://img.shields.io/badge/Sliver_C2-0D1117?style=for-the-badge&logoColor=FF0033)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,nodejs&theme=dark" height="48" />
+</p>
 
-**Password & Hash Attacks**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF0033&labelColor=0D1117)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF0033&labelColor=0D1117)
+![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0033&labelColor=0D1117)
+![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Nuclei](https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![WPScan](https://img.shields.io/badge/WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=FF0033&labelColor=0D1117)
+![XSStrike](https://img.shields.io/badge/XSStrike-0D1117?style=for-the-badge&logo=javascript&logoColor=FF0033&labelColor=0D1117)
+![Commix](https://img.shields.io/badge/Commix-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033&labelColor=0D1117)
 
-![Hashcat](https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=FF0033)
-![John](https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=FF0033)
-![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=FF0033)
-![Medusa](https://img.shields.io/badge/Medusa-0D1117?style=for-the-badge&logoColor=FF0033)
+<br>
 
-**Wireless & Network**
+### 🔴 Exploitation & Post-Exploitation
 
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logoColor=FF0033)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033)
-![Bettercap](https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logoColor=FF0033)
-![Kismet](https://img.shields.io/badge/Kismet-0D1117?style=for-the-badge&logoColor=FF0033)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,windows,linux&theme=dark" height="48" />
+</p>
 
-**Environment & Scripting**
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF0033&labelColor=0D1117)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&logo=python&logoColor=FF0033&labelColor=0D1117)
+![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&logo=windows&logoColor=FF0033&labelColor=0D1117)
+![Responder](https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![PowerShell Empire](https://img.shields.io/badge/PowerShell_Empire-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033&labelColor=0D1117)
+![Sliver C2](https://img.shields.io/badge/Sliver_C2-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
 
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0033)
-![Parrot](https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=FF0033)
-![BlackArch](https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=FF0033)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF0033)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0033)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF0033)
+<br>
+
+### 🔴 Password & Hash Attacks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark" height="48" />
+</p>
+
+![Hashcat](https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Medusa](https://img.shields.io/badge/Medusa-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+
+<br>
+
+### 🔴 Wireless & Network
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,debian&theme=dark" height="48" />
+</p>
+
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logo=wifi&logoColor=FF0033&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0033&labelColor=0D1117)
+![Bettercap](https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logoColor=FF0033&labelColor=0D1117)
+![Kismet](https://img.shields.io/badge/Kismet-0D1117?style=for-the-badge&logo=wifi&logoColor=FF0033&labelColor=0D1117)
+
+<br>
+
+### 🔴 Environment & Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,arch,debian,ubuntu,python,bash,powershell,docker,git,vim,regex&theme=dark&perline=12" height="60" />
+</p>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0033&labelColor=0D1117)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=FF0033&labelColor=0D1117)
+![BlackArch](https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=FF0033&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF0033&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0033&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0033&labelColor=0D1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=FF0033&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF0033&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF0033&labelColor=0D1117)
+
+<br>
+
+### 🔴 Databases & Web Servers
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,nginx,apache&theme=dark&perline=6" height="60" />
+</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0033&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF0033&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FF0033&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF0033&labelColor=0D1117)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=FF0033&labelColor=0D1117)
+![Apache](https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=FF0033&labelColor=0D1117)
+
+<br>
+
+### 🔴 Platforms & Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF0033&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF0033&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Bugcrowd-0D1117?style=for-the-badge&logo=bugcrowd&logoColor=FF0033&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=FF0033&labelColor=0D1117" />
+</p>
 
 <br>
 
