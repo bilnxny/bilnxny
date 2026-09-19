@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MUHAMMED BILAL TA — Full Stack Developer & Security Engineer
+     MUHAMMED BILAL TA — Redteam Analyst & pentester
      github.com/bilnxny
      ═══════════════════════════════════════════════════════════ -->
 
@@ -58,7 +58,7 @@ interface Developer {
 const bilal: Developer = {
   name:      "Muhammed Bilal TA",
   alias:     "bilnxny",
-  role:      ["Full Stack Developer", "Security Engineer", "Red Teamer"],
+  role:      ["Cyber security Analyst", "Security Engineer", "Red Teamer"],
   location:  "Kerala, India 🇮🇳",
   languages: ["TypeScript", "Python", "Go", "Bash", "SQL"],
   focus:     "Building secure, performant web applications",
